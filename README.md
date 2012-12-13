@@ -26,10 +26,18 @@ Very Simple python 2.x Chat with a simple salting for the logging system
 
 
 [*]Wishlist:
+
     Encrypt the messages that the users send to the server
+
     Add a list-box with the user in the room
+
     Add multiple chat rooms
+
     Server act like an IRC bot and -block some users-do some special actions on certain commands
+
     Better connection handling
+
     Test on a real server
+
+
 
