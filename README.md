@@ -5,7 +5,9 @@ Very Simple python 2.x Chat with a simple salting for the logging system
 
 [*]Dependencies:
     python2.x (any of the series)
+
     wxpython module (can be found on the repo of python main website)
+
     asyncore module if not found in the default library
 [*]
 
