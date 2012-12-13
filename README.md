@@ -37,7 +37,7 @@ Very Simple python 2.x Chat with a simple salting for the logging system
 
     Better connection handling
 
-    Test on a real server
+    Test on someone who can port forward or host the server
 
 
 
